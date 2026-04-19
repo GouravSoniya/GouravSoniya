@@ -1,10 +1,6 @@
 # Hey, I'm Gourav 👋
 
 CS student building AI agents and fullstack apps.
-
-I'm interested in the intersection of LLMs and real software —
-agents that actually do things, not just chat.
-
 ---
 
 ## What I work with
