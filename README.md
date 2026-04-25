@@ -41,10 +41,10 @@ I'm a computer science student passionate about building production-ready AI app
 - Dual interfaces: CLI for power users + Streamlit web app
 
 **Key Features:**
-- ✅ Real code execution in sandboxed environment (blocks dangerous operations)
-- ✅ Multi-step reasoning with automatic error handling
-- ✅ Production-ready security implementation
-- ✅ Live demo: [Streamlit App](https://data-analyst-agent-xskgltunuwo6copquqldw9.streamlit.app/)
+- Real code execution in sandboxed environment (blocks dangerous operations)
+- Multi-step reasoning with automatic error handling
+- Production-ready security implementation
+- Live demo: [Streamlit App](https://data-analyst-agent-xskgltunuwo6copquqldw9.streamlit.app/)
 
 **Tech Stack:** Python, FastAPI, LLMs (LM Studio/Groq), Streamlit, Pandas, NumPy, Matplotlib
 
