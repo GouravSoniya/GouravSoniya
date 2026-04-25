@@ -1,22 +1,22 @@
-# Hey, I'm Gourav 👋
+# Hey, I'm Gourav 
 
 **AI Engineer & Full-Stack Developer** | Building intelligent systems that solve real problems
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a computer science student passionate about building production-ready AI applications and full-stack systems. I specialize in designing and deploying intelligent agents that leverage modern LLM frameworks, coupled with solid backend architecture and clean frontend implementations.
 
 **My focus areas:**
-- 🤖 **AI/ML Engineering** — Agent design, LLM integration, prompt engineering
-- ⚙️ **Backend Development** — FastAPI, system design, database optimization
-- 🎨 **Full-Stack Development** — React, Next.js, responsive UX
-- 🔒 **Production Best Practices** — Security, error handling, observability
+- **AI/ML Engineering** — Agent design, LLM integration, prompt engineering
+- **Backend Development** — FastAPI, system design, database optimization
+- **Full-Stack Development** — React, Next.js, responsive UX
+- **Production Best Practices** — Security, error handling, observability
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|---------------|
@@ -29,9 +29,9 @@ I'm a computer science student passionate about building production-ready AI app
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 [Data Analyst Agent](https://github.com/GouravSoniya/data-analyst-agent)
+### [Data Analyst Agent](https://github.com/GouravSoniya/data-analyst-agent)
 *An intelligent data analysis tool powered by LLMs with sandboxed code execution*
 
 **What it does:**
@@ -50,7 +50,7 @@ I'm a computer science student passionate about building production-ready AI app
 
 ---
 
-### 🎫 [Support Agent](https://github.com/GouravSoniya/support-agent)
+### [Support Agent](https://github.com/GouravSoniya/support-agent)
 *Production-ready AI support ticket processor with enterprise-grade workflow orchestration*
 
 **What it does:**
@@ -60,17 +60,17 @@ I'm a computer science student passionate about building production-ready AI app
 - All powered by Inngest workflow orchestration
 
 **Key Features:**
-- ✅ Automatic retries with step-level checkpointing (no data loss)
-- ✅ Full observability via Inngest dashboard
-- ✅ SQL injection prevention with parameterized queries
-- ✅ Responsive HTML/CSS frontend UI
-- ✅ Separation of concerns: Database, AI logic, Server fully decoupled
+- Automatic retries with step-level checkpointing (no data loss)
+- Full observability via Inngest dashboard
+- SQL injection prevention with parameterized queries
+- Responsive HTML/CSS frontend UI
+- Separation of concerns: Database, AI logic, Server fully decoupled
 
 **Tech Stack:** Python, FastAPI, Inngest, Groq API, SQLite, HTML5/CSS3
 
 ---
 
-## 📊 Key Competencies
+## Key Competencies
 
 ### Software Engineering
 - **System Design** — Scalable architectures, separation of concerns, production readiness
@@ -89,30 +89,30 @@ I'm a computer science student passionate about building production-ready AI app
 
 ---
 
-## 🎓 What I'm Learning
+## What I'm Learning
 
-- 🌱 Deepening Next.js expertise for modern full-stack development
-- 🌱 Advanced LLM fine-tuning and domain-specific optimization
-- 🌱 Kubernetes and containerization for scalable deployments
+- Deepening Next.js expertise for modern full-stack development
+- Advanced LLM fine-tuning and domain-specific optimization
+- Kubernetes and containerization for scalable deployments
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 I'm **open to opportunities** — freelance projects, entry-level positions, or collaborations on AI-powered applications.
 
-- 📧 **GitHub**: [@GouravSoniya](https://github.com/GouravSoniya)
-- 💬 **Looking for**: AI engineer roles, full-stack development, or agent-building projects
+- **GitHub**: [@GouravSoniya](https://github.com/GouravSoniya)
+- **Looking for**: AI engineer roles, full-stack development, or agent-building projects
 
 ---
 
-## 📈 Portfolio Highlights
+## Portfolio Highlights
 
-✨ **2 production-ready projects** with real-world use cases  
-✨ **Best practices implemented**: Security, observability, error handling  
-✨ **Multiple interfaces**: CLI, web apps, APIs  
-✨ **Flexible LLM support**: Local + cloud backends  
-✨ **Clean, documented code** ready for collaboration  
+**2 production-ready projects** with real-world use cases  
+**Best practices implemented**: Security, observability, error handling  
+*Multiple interfaces**: CLI, web apps, APIs  
+**Flexible LLM support**: Local + cloud backends  
+**Clean, documented code** ready for collaboration  
 
 ---
 
