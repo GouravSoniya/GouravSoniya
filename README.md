@@ -10,7 +10,7 @@ My tech stack :
 - Frontend: Next.js, Tailwind CSS
 - Testing: pytest, Jest/Vitest, Playwright
 - Backend: FastAPI, Supabase, Redis
-- Database: PostgreSQL
+- Database: PostgreSQL, MongoDB
 - AI/ML: OpenAI API, LangChain, LangGraph, CrewAI, RAG Pipelines
 - Infra: Docker, GitHub Actions, Inngest
 
