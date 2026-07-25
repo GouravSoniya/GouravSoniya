@@ -3,7 +3,7 @@ My name is Gourav Soniya
 I am from Madhya Pradesh, India
 I am currently studying BCA from a tier 3 college while making projects for my portfolio
 
-I am preparing to become a fullstack developer with strong AI skills(AI orchestration and agent AI to be precise) 
+I am preparing to become a fullstack developer with strong AI skills(AI orchestration and agent AI to be precise) or Product Manager/Engineer
 
 My tech stack :
 - Languages: TypeScript, Python
